@@ -1,0 +1,12 @@
+nav ul {
+  list-style: none; /* remove os marcadores */
+  display: flex;     /* deixa os itens lado a lado */
+  gap: 1rem;         /* espaçamento entre os links */
+  justify-content: center; /* centraliza horizontalmente */
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
